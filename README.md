@@ -1,1 +1,1 @@
-Basic Pattern to learn easly to understand the puthon language 
+Basic Pattern to learn easly to understand the pythonlanguage 
